@@ -1,5 +1,5 @@
 {
-  "name": "http-proxy",
+  "name": "@kvstumph/http-proxy",
   "version": "1.14.0",
   "repository": {
     "type": "git",
